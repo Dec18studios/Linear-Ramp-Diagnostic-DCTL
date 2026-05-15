@@ -53,5 +53,6 @@
       "installPath": "/opt/resolve/LUT/DCTL",
       "installMode": "file-browse"
     }
-  ]
+  ],
+  "licenseTier": "free"
 }
